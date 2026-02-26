@@ -66,7 +66,7 @@ $buttons.Orientation = "Horizontal"
 $buttons.HorizontalAlignment = "Center"
 
 $btnForce = New-Object System.Windows.Controls.Button
-$btnForce.Content = "Force renderer 0"
+$btnForce.Content = "Force DX11 renderer"
 $btnForce.Width = 120
 $btnForce.Margin = "5"
 
